@@ -17,11 +17,5 @@
         <li>Second item</li>
         <li>Third item</li>
 
-  <h2>My List of Items</h2>
-    <ul>
-        <li>First item</li>
-        <li>Second item</li>
-        <li>Third item</li>
-    </ul>
 </body>
 </html>
