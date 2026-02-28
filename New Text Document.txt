@@ -13,9 +13,6 @@
 
   <h2>My List of Items</h2>
     <ul>
-        <li>First item</li>
-        <li>Second item</li>
-        <li>Third item</li>
          <li>First item</li>
         <li>Second item</li>
         <li>Third item</li>
